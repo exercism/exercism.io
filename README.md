@@ -1,33 +1,36 @@
-# Welcome to Exercism
+# Bienvenido a Exercism
 
-This is the central point of contact for Exercism.
+Este es el punto principal de contacto de Exercism.
 
-## Where to open issues
+## Donde se puede abrir casos
 
-The project is divided across many repositories.
+El proyecto esta dividido en muchos repositorios (de ahora en adelante, repos - como se lo conoce en el ambiente).
 
-#### The website or product
-If you have any issues or questions regarding **the website (https://exercism.io)** please [open an issue in this repository](https://github.com/exercism/exercism/issues). To report errors in the website copy or submit fixes for typos or other improvements, please see the [exercism/website-copy](https://github.com/exercism/website-copy/issues) repository.
+#### La pagina web o el producto
 
-#### The Command-Line Client (CLI)
-For problems with the **Command-Line Client (CLI)**, open an issue in [exercism/cli](https://github.com/exercism/cli/issues).
+Si Ud. tiene algun problema o alguna pregunta con relacion al **sitio web (https://exercism.io)** por favor [abra un caso en este repositorio](https://github.com/exercism/exercism/issues). Para reportar errores en el sitio web o para enviar soluciones por errores de tipeo u otros arreglos, fijese en este [exercism/website-copy](https://github.com/exercism/website-copy/issues) repositorio.
 
-#### Exercises in a particular programming language
-The exercises are all in separate, language-specific repositories. These repositories are tagged with the topic [`#exercism-track`](https://github.com/search?q=topic%3Aexercism-track+org%3Aexercism&type=Repositories). From there, search for the track (programming language) you are participating in.
+#### La linea de comando (CLI)
 
-**Unsure? Open your issue here**
+Por problemas con la **linea de comando (CLI)**, abra un caso en [exercism/cli](https://github.com/exercism/cli/issues).
 
-If you aren't sure where to open it, then pick this repository. It's as good a starting point as any!
+#### Ejercicios en un lenguaje de programacion en particular
 
-## Feeling uncomfortable?
+Los ejercicios estan todos separados en repositorios especificos para cada lenguaje. Estos repositorios estan etiquetados con el topico [`#exercism-track`](https://github.com/search?q=topic%3Aexercism-track+org%3Aexercism&type=Repositories). Desde ahi, Ud puede buscar la seccion (programming language) en la que esta participando.
 
-If you need to report a code of conduct violation, please email us at team@exercism.io.
+**No esta seguro? Abra su caso aqui**
 
-## Where to find the code
+Si Ud no esta seguro de donde abrir su caso, entonces use este repositorio. Sirve como punto de partida!
 
-The code for the website lives in [exercism/website](http://github.com/exercism/website).
-The code for the old website is in this repository, in the [v1.exercism.io](https://github.com/exercism/exercism/tree/v1.exercism.io) branch.
+## Se siente disconforme?
 
-## Who's behind Exercism?
+Si Ud necesita reportar una violacion del codigo de conducta, envienos un mail a team@exercism.io.
 
-Read about our Team on the site: https://exercism.io/team
+## Donde puede encontrar el codigo
+
+El codigo de nuestro sitio web vive en [exercism/website](http://github.com/exercism/website).
+El codigo del viejo sitio web se encuentra en este repositorio, en esta [v1.exercism.io](https://github.com/exercism/exercism/tree/v1.exercism.io) seccion.
+
+## Quien esta detras de Exercism?
+
+Lea sobre nuestro equipo en el sitio: https://exercism.io/team
