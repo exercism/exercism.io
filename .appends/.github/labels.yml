@@ -1,0 +1,272 @@
+# ----------------------------------------------------------------------------------------- #
+# These are the repository-specific labels that augment the Exercise-wide labels defined in #
+# https://github.com/exercism/org-wide-files/blob/main/global-files/.github/labels.yml.     #
+# ----------------------------------------------------------------------------------------- #
+
+- name: "area/abuse-vector"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/api"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/automation"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/cli"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/copy"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/documentation"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/exercises"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/markdown"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/mentor-tools"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/notifications"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/product"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/teams"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/track-maintenance"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/v1_to_v2_migration"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/walkthrough"
+  description: ""
+  color: "d73a4a"
+
+- name: "area/website"
+  description: ""
+  color: "d73a4a"
+
+- name: "community-pr-welcome"
+  description: ""
+  color: "d73a4a"
+
+- name: "difficulty/easy"
+  description: ""
+  color: "d73a4a"
+
+- name: "difficulty/hard"
+  description: ""
+  color: "d73a4a"
+
+- name: "difficulty/medium"
+  description: ""
+  color: "d73a4a"
+
+- name: "Hacktoberfest"
+  description: ""
+  color: "d73a4a"
+
+- name: "imported-from/bugsnag"
+  description: ""
+  color: "d73a4a"
+
+- name: "imported-from/cli"
+  description: ""
+  color: "d73a4a"
+
+- name: "imported-from/discussions"
+  description: ""
+  color: "d73a4a"
+
+- name: "imported-from/internal"
+  description: ""
+  color: "d73a4a"
+
+- name: "imported-from/v2-feedback"
+  description: ""
+  color: "d73a4a"
+
+- name: "invalid"
+  description: ""
+  color: "d73a4a"
+
+- name: "priority/high"
+  description: ""
+  color: "d73a4a"
+
+- name: "priority/low"
+  description: ""
+  color: "d73a4a"
+
+- name: "priority/medium"
+  description: ""
+  color: "d73a4a"
+
+- name: "priority/next-up"
+  description: ""
+  color: "d73a4a"
+
+- name: "rgsoc-2018"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/blocked"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/discussion"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/fixed"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/in-progress"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/needs-triaging"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/on-roadmap"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/pr-submitted"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/product-discussion"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/stale"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/triaged-to-repo"
+  description: ""
+  color: "d73a4a"
+
+- name: "status/waiting-for-info"
+  description: ""
+  color: "d73a4a"
+
+- name: "todo/define-next-step"
+  description: ""
+  color: "d73a4a"
+
+- name: "todo/elaborate"
+  description: ""
+  color: "d73a4a"
+
+- name: "todo/move-to-correct-repo"
+  description: ""
+  color: "d73a4a"
+
+- name: "todo/please-summarize"
+  description: ""
+  color: "d73a4a"
+
+- name: "todo/rescue-me"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/accessibility"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/announcement"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/bug"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/community-consultation"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/duplicate"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/feature-request"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/improvement"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/janitorial"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/mentoring-support"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/operations"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/policy"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/question"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/spam"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/support"
+  description: ""
+  color: "d73a4a"
+
+- name: "type/wontfix"
+  description: ""
+  color: "d73a4a"
+
+- name: "v3/bug-to-fix"
+  description: ""
+  color: "d73a4a"
+
+- name: "v3/consideration"
+  description: ""
+  color: "d73a4a"
+
+- name: "v3/not-applicable"
+  description: ""
+  color: "d73a4a"
+
+- name: "v3/will-change-or-fix"
+  description: ""
+  color: "d73a4a"
